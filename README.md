@@ -1,6 +1,6 @@
 # FraudGenuineApp
 🔍 Fraudetect: Google Play Fraudulent App Detection System
-Detect fraudulent, genuine, or suspicious Android apps using Gemini 1.5 Flash (v2.5), rule-based heuristics, and structured JSON outputs.
+Detect fraudulent, genuine, or suspicious Android apps using Gemini 2.5 Flash (v2.5), rule-based heuristics, and structured JSON outputs.
 
 📌 🎯 Objective
 Design an automated system that flags fraudulent or harmful apps by analyzing:
