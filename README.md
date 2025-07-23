@@ -105,8 +105,6 @@ Compare against known fraud/genuine classifications.
 
 Accuracy
 
-Precision / Recall (especially for "fraud")
-
 Confusion Matrix
 
 Execution time per app (Gemini inference benchmark)
