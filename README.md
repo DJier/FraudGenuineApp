@@ -39,7 +39,7 @@ bash
 Copy
 Edit
 python fetch_app_data.py --app_id com.example.fakevpn
-2️⃣ LLM Integration: Gemini 1.5 Flash (v2.5)
+2️⃣ LLM Integration: Gemini 2.5 Flash (v2.5)
 Gemini is used for semantic pattern recognition in:
 
 Descriptions (misleading marketing)
