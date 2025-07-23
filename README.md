@@ -13,7 +13,7 @@ Reviews
 
 Developer patterns
 
-using Gemini 1.5 Flash for semantic interpretation.
+using Gemini 2.5 Flash for semantic interpretation.
 
 🧱 💡 Architecture Overview
 mermaid
