@@ -21,7 +21,7 @@ Copy
 Edit
 flowchart TD
     A[📲 Google Play Scraper/API] --> B[🧾 App Data JSON]
-    B --> C[🧠 Gemini 1.5 Flash (v2.5)]
+    B --> C[🧠 Gemini 2.5 Flash (v2.5)]
     C --> D[🧰 Rule-based Validator]
     D --> E[📦 Structured Output: {type, reason}]
     E --> F[📊 Evaluation w/ Labeled Dataset]
